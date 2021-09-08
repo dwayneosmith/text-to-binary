@@ -1,0 +1,16 @@
+{
+  "name": "text-to-binary1",
+  "version": "1.2.0",
+  "description": "A node.js package to convert from text to binary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text to binary",
+    "ascii text to binary"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://www.aaryatables.com/numbers/text-to-binary"
+}
